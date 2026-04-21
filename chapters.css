@@ -13,7 +13,7 @@ button {
     color: white;
     border-radius: 12px;
     border: none;
-    cursor: pointer;
+    cursor: pointer; 
     transition: all 0.3s ease;
 }
 

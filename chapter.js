@@ -11,3 +11,4 @@ function setSelectToCurrentPage() {
 }
 
 window.addEventListener('pageshow', setSelectToCurrentPage);
+ 

@@ -2,9 +2,19 @@
 
 A novel written by me. This is a website to host my novel.
 
+## Story overview
+
+Fifteen years ago, the sky shattered. Fire rained down, and from it came beings that looked human, but weren't. The six great lands, once ruled by powerful Archons, fell one by one.
+
+
+
 ## TechStack 
 
-HTML, CSS, and JS
+HTML- Content of the website
+
+CSS- Style of the website
+
+JS- Small logic for the website
 
 
 ## Read

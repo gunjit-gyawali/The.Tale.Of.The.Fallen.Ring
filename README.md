@@ -20,6 +20,7 @@ I disabled the copying feature using CSS, so please don't try to copy my work.
 ## Why did I make this?
 
 I love watching anime and love the stories, so I thought, why not make my own story and publish it on my own website? So I made this.
+Thinking of the story is pretty hard.
 
 
 ## Website images
